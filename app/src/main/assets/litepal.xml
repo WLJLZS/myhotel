@@ -1,0 +1,15 @@
+<litepal>
+    <dbname value="my_hotel"/>
+
+    <version value="1"/>
+
+    <list>
+        <mapping class="com.myhotle.android.db.Admin"/>
+        <mapping class="com.myhotle.android.db.TCatelog"/>
+        <mapping class="com.myhotle.android.db.TKefang"/>
+        <mapping class="com.myhotle.android.db.TRuzhu"/>
+        <mapping class="com.myhotle.android.db.TUser"/>
+        <mapping class="com.myhotle.android.db.TYuding"/>
+    </list>
+
+</litepal>
